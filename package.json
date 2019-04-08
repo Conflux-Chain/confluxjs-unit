@@ -1,7 +1,7 @@
 {
-  "name": "ethjs-unit",
+  "name": "confluxjs-unit",
   "version": "0.1.6",
-  "description": "A simple module for handling Ethereum units (e.g. 'ether', 'wei', etc...)",
+  "description": "A simple module for handling Conflux units (e.g. 'drip', 'cfx', etc...)",
   "main": "lib/index.js",
   "files": [
     "dist",
@@ -149,50 +149,16 @@
     "eventsource-polyfill": "0.9.6",
     "lint-staged": "1.0.1",
     "mocha": "3.1.2",
-    "pre-commit": "1.1.3",
-    "web3": "0.17.0-beta"
+    "pre-commit": "1.1.3"
   },
   "keywords": [
-    "ethereum",
+    "conflux",
     "encoding",
     "decoding"
   ],
-  "author": "Nick Dodson <thenickdodson@gmail.com>",
-  "contributors": [
-    {
-      "name": "Richard Moore",
-      "email": "me@ricmoo.com",
-      "url": "https://ethers.io"
-    },
-    {
-      "name": "Marek Kotewicz",
-      "email": "marek@ethdev.com",
-      "url": "https://github.com/debris"
-    },
-    {
-      "name": "Fabian Vogelsteller",
-      "email": "fabian@ethdev.com",
-      "homepage": "http://frozeman.de"
-    },
-    {
-      "name": "Marian Oancea",
-      "email": "marian@ethdev.com",
-      "url": "https://github.com/cubedro"
-    },
-    {
-      "name": "Gav Wood",
-      "email": "g@ethdev.com",
-      "homepage": "http://gavwood.com"
-    },
-    {
-      "name": "Jeffery Wilcke",
-      "email": "jeff@ethdev.com",
-      "url": "https://github.com/obscuren"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ethjs/ethjs-unit"
+    "url": "git@github.com:Conflux-Chain/confluxjs-unit.git"
   },
   "license": "MIT",
   "lint-staged": {
