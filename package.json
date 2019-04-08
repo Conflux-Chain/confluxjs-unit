@@ -1,6 +1,6 @@
 {
   "name": "confluxjs-unit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple module for handling Conflux units (e.g. 'drip', 'cfx', etc...)",
   "main": "lib/index.js",
   "files": [
